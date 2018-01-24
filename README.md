@@ -9,3 +9,5 @@
 4. BackPressed Fragment: https://www.skoumal.net/en/android-handle-back-press-in-fragment/
 
 5. http://chiuki.github.io/android-shaders-filters/#/
+
+6. https://unsplash.com/photos/i2B8YJoO3lI
