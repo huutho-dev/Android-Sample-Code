@@ -10,4 +10,6 @@
 
 5. http://chiuki.github.io/android-shaders-filters/#/
 
-6. https://unsplash.com/photos/i2B8YJoO3lI
+6. Image beautiful: https://unsplash.com/photos/i2B8YJoO3lI
+
+7. Github run application direct : https://github.com/cesarferreira/dryrun 
