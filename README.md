@@ -8,8 +8,10 @@
 
 4. BackPressed Fragment: https://www.skoumal.net/en/android-handle-back-press-in-fragment/
 
-5. http://chiuki.github.io/android-shaders-filters/#/
+5. Basic filter: http://chiuki.github.io/android-shaders-filters/#/
 
 6. Image beautiful: https://unsplash.com/photos/i2B8YJoO3lI
 
-7. Github run application direct : https://github.com/cesarferreira/dryrun 
+7. Github run application direct: https://github.com/cesarferreira/dryrun 
+
+8. Detect keybroad show: https://github.com/siebeprojects/samples-keyboardheight
