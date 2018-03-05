@@ -10,7 +10,12 @@
 
 5. Basic filter: http://chiuki.github.io/android-shaders-filters/#/
 
-6. Image beautiful: https://unsplash.com/photos/i2B8YJoO3lI
+6. Image beautiful: 
+https://unsplash.com/photos/i2B8YJoO3lI
+https://www.pexels.com/
+https://www.lifeofpix.com/
+http://littlevisuals.co/
+https://picjumbo.com/
 
 7. Github run application direct: https://github.com/cesarferreira/dryrun 
 
