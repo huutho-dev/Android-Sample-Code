@@ -10,19 +10,19 @@
 
 5. Basic filter: http://chiuki.github.io/android-shaders-filters/#/
 
->>> Image beautiful: 
-        + https://unsplash.com/photos/i2B8YJoO3lI
-        + https://www.pexels.com/
-        + https://www.lifeofpix.com/
-        + http://littlevisuals.co/
-        +https://picjumbo.com/
+> Image beautiful: 
+        * https://unsplash.com/photos/i2B8YJoO3lI
+        * https://www.pexels.com/
+        * https://www.lifeofpix.com/
+        * http://littlevisuals.co/
+        * https://picjumbo.com/
         
 
 7. Github run application direct: https://github.com/cesarferreira/dryrun 
 
 
->>> Detect keybroad show: https://github.com/siebeprojects/samples-keyboardheight
+> Detect keybroad show: https://github.com/siebeprojects/samples-keyboardheight
 
 
->>> Sharing Content With Intents: https://github.com/codepath/android_guides/wiki/Sharing-Content-with-Intents
+> Sharing Content With Intents: https://github.com/codepath/android_guides/wiki/Sharing-Content-with-Intents
 
