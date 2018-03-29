@@ -33,5 +33,5 @@
 ###### Sharing Content With Intents: https://github.com/codepath/android_guides/wiki/Sharing-Content-with-Intents
 
 
-###### http://wptrafficanalyzer.in/blog/route-between-two-locations-with-waypoints-in-google-map-android-api-v2/
+###### Google map v2 http://wptrafficanalyzer.in/blog/route-between-two-locations-with-waypoints-in-google-map-android-api-v2/
 
